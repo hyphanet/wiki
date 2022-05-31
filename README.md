@@ -15,3 +15,6 @@ Convert wiki to html
 ```sh
    make
 ```
+
+_(clone the Freenet Wiki repository to wiki/ to keep the parser from
+cloning the repo from github)_
